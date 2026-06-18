@@ -103,4 +103,5 @@ Charts will be saved in the `charts/` folder automatically.
 - **Organization:** QSkill (Squarcell Resource India Pvt. Ltd)
 - **Domain:** Python Development
 - **Duration:** 1st June – 1st July 2026
-- **Mode:** Virtual | **Stipend:** Unpaid
+- **Mode:** Virtual |
+  
